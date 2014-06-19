@@ -1,0 +1,1 @@
+The War card game begins with a Deck made up of 52 unique Cards. Cards have a rank value of Ace through King and come in the suits Hearts, Clubs, Spades, and Diamonds. There are two Players with a name attribute. Each of these players pull a random card from the Deck and compare to the other player. The player with the high card wins.
